@@ -1,5 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?font=Bitter&weight=600&letterSpacing=2px&color=65C15D&lines=Hello!+I'm+Yumi+(%E3%81%A5+%E2%97%95%E2%80%BF%E2%97%95+)%E3%81%A5)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&letterSpacing=2px&pause=1000&color=65C15D&width=435&lines=Hello!+I'm+Yumi+(%E3%81%A5+%E2%97%95%E2%80%BF%E2%97%95+)%E3%81%A5)](https://git.io/typing-svg)
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
