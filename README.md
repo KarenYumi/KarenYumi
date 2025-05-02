@@ -14,9 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karenyumi&show_icons=true&locale=en&layout=compact" alt="karenyumi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karenyumi&show_icons=true&theme=dark&locale=en" alt="karenyumi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karenyumi&theme=dark" alt="karenyumi" /></p>
 
 ### 💬 Let's Connect!
 
